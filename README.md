@@ -3,7 +3,9 @@ Bot Binance borsasında otomatik alım satım yapar.
 
 Daha gelişmiş bot için bana ulaşabilirsiniz.Bota indikatör veya mum formasyonları ekleyebiliyorum. 
 
-kriptoparabot@gmail.com
+E-mail:kriptoparabot@gmail.com
+
+Telegram:@kriptoparabotu
 
 Botun Çalışma Mantığı:
 
