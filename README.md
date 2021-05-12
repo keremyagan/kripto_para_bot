@@ -1,6 +1,8 @@
 # kripto_para_bot
 Bot Binance borsasında otomatik alım satım yapar. 
 
+Lisans Kodu:DENEME
+
 Daha gelişmiş bot için bana ulaşabilirsiniz.Bota indikatör veya mum formasyonları ekleyebiliyorum. 
 
 E-mail:kriptoparabot@gmail.com
