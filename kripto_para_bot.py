@@ -45,7 +45,7 @@ def ana_menu() :
             label.place(x=20,y=230)
 
             label=Label(pencere)
-            label.config(text="İletişim E-Posta:keremyagan5@gmail.com",font=("Arial",13))
+            label.config(text="İletişim E-Posta:keremyagann@gmail.com",font=("Arial",13))
             label.place(x=20,y=250)
 
             label=Label(pencere)
@@ -69,7 +69,7 @@ def ana_menu() :
             label.place(x=20,y=380)
 
             label=Label(pencere)
-            label.config(text="IBAN:TR32 0001 0003 2062 3006 2550 01",font=("Arial",13))
+            label.config(text="IBAN:TR11 1111 1111 1111 1111 11",font=("Arial",13))
             label.place(x=20,y=400)
 
 
@@ -230,7 +230,7 @@ else :
     label.place(x=20,y=80)
 
     label=Label(pencere)
-    label.config(text="İletişim E-Posta:keremyagan5@gmail.com",font=("Arial",13))
+    label.config(text="İletişim E-Posta:keremyagann@gmail.com",font=("Arial",13))
     label.place(x=20,y=100)
 
     label=Label(pencere)
